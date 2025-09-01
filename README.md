@@ -16,14 +16,14 @@ Make sure you have the following installed:
    cd <repo-folder>
 Install dependencies:
 
-bash
-Copy code
+ ```bash
 npm install
+```
 ▶️ Running the Application
 Start the app with:
-
-bash
+```bash
 Copy code
+```
 npm start
 👉 This runs the app using nodemon, so the server will automatically restart when you make changes.
 
