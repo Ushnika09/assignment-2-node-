@@ -12,7 +12,7 @@ Make sure you have the following installed:
 ## 🔧 Installation
 1. Clone the repository:
    ```bash
-   git clone [<repo-url>](https://github.com/Ushnika09/assignment-2-node-.git)
+   git clone https://github.com/Ushnika09/assignment-2-node-.git
    cd <repo-folder>
 Install dependencies:
 
